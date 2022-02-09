@@ -1,1 +1,3 @@
-# Tugas1-SEKURO_Programming-16521516
+# Tugas 1 SEKURO Divisi Programming
+## NIM : 16521516
+## Nama : Ahmad Nadil
