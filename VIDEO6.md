@@ -45,3 +45,11 @@ $ git merge Branch1
 ```
 
 ![](https://cdn.discordapp.com/attachments/940989834779037716/941382153583853618/unknown.png)
+
+- Menghapus Branch yang sudah di Merge
+
+```
+$ git branch -d Branch1
+```
+
+![](https://cdn.discordapp.com/attachments/940989834779037716/941382644099338411/unknown.png)
