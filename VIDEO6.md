@@ -39,4 +39,9 @@ $ git commit -m
 
 ![](https://cdn.discordapp.com/attachments/940989834779037716/941381491169058846/unknown.png)
 
-- 
+- Melakukan Merge
+```
+$ git merge Branch1
+```
+
+![](https://cdn.discordapp.com/attachments/940989834779037716/941382153583853618/unknown.png)
