@@ -25,3 +25,18 @@ $ git checkout Branch1
 
 ![](https://cdn.discordapp.com/attachments/940989834779037716/941380430916120596/unknown.png)
 
+- Melakukan Stagin pada `Branch`
+```
+$ git add .
+```
+
+![](https://cdn.discordapp.com/attachments/940989834779037716/941381176864702594/unknown.png)
+
+- Melakukan Commit
+```
+$ git commit -m
+```
+
+![](https://cdn.discordapp.com/attachments/940989834779037716/941381491169058846/unknown.png)
+
+- 
