@@ -48,3 +48,12 @@ $ git help
 
 ![](https://cdn.discordapp.com/attachments/940989834779037716/941372590507835513/unknown.png)
 
+2. Melakukan Staging File
+
+![](https://cdn.discordapp.com/attachments/940989834779037716/941373091886542938/unknown.png)
+
+3. Melakukan Commit File
+
+![](https://cdn.discordapp.com/attachments/940989834779037716/941374921639084032/unknown.png)
+
+
